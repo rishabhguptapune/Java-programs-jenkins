@@ -8,6 +8,6 @@ public class main {
         System.out.println("Hello Rishabh");
         System.out.println("Hello Gupta Ji");
         student s1 = new student();
-        student.sayHello();
+        s1.sayHello();
     }
 }
